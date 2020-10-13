@@ -39,7 +39,7 @@ public class Zadanie3 {
         int tabWiersze=tab.length;
         int tabKolumny=tab[0].length;
         int tab2Wiersze=tab.length;
-        int tab2Kolumny=tab[0].length;
+
         if(tabKolumny != tab2Wiersze){
             System.out.println("Liczba kolumn 1 macierzy ma byc rowna wierszom drugiej macierzy");
             return null;
