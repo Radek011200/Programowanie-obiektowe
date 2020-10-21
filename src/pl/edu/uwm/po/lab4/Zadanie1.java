@@ -2,9 +2,9 @@ package pl.edu.uwm.po.lab4;
 import java.util.Arrays;
 import java.util.ArrayList;
 
-import org.w3c.dom.ls.LSOutput;
 
-import java.sql.SQLOutput;
+
+
 import java.util.Scanner;
 
 class Zadanie1 {
