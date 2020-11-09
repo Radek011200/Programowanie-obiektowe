@@ -1,6 +1,8 @@
-package pl.edu.uwm.po.lab8;
+package pl.imiajd.Iwanowicz;
 
-public class Skrzypce extends Instrument{
+import pl.edu.uwm.po.lab8.Instrument;
+
+public class Skrzypce extends Instrument {
 
     @Override
     public String dzwiek() {

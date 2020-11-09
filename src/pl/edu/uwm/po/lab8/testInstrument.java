@@ -1,8 +1,8 @@
 package pl.edu.uwm.po.lab8;
-import pl.edu.uwm.po.lab8.Flet;
-import pl.edu.uwm.po.lab8.Fortepian;
-import pl.edu.uwm.po.lab8.Skrzypce;
-import pl.edu.uwm.po.lab8.Instrument;
+import pl.imiajd.Iwanowicz.Flet;
+import pl.imiajd.Iwanowicz.Fortepian;
+import pl.imiajd.Iwanowicz.Skrzypce;
+
 import java.time.LocalDate;
 import java.util.ArrayList;
 

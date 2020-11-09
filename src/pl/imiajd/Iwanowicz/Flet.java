@@ -1,6 +1,8 @@
-package pl.edu.uwm.po.lab8;
+package pl.imiajd.Iwanowicz;
 
-public class Flet extends Instrument{
+import pl.edu.uwm.po.lab8.Instrument;
+
+public class Flet extends Instrument {
 
 
     public Flet(String producent, java.time.LocalDate rokProdukcji){
